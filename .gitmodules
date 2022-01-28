@@ -1,0 +1,3 @@
+[submodule "tango_with_django_2_code"]
+	path = tango_with_django_2_code
+	url = https://github.com/tangowithcode/tango_with_django_2_code
